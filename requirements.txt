@@ -1,0 +1,4 @@
+Flask==3.0.2
+gradio==5.12.0
+gradio_client==1.5.4
+gunicorn>=20.0.0
